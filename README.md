@@ -20,7 +20,6 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/jeyabalan-k-287abb232)
 - 💌 [Email](mailto:jeyabalank4@gmail.com)
-- 🛠️ [GitHub](https://github.com/jeyabalan-1902)
 - 🧑‍💼 Pronouns: He/Him
 
 ---
