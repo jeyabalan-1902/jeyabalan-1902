@@ -70,7 +70,6 @@ Smart touch control switch for home automation with RFM69, display, and ESP32 co
 ## 📬 Get in Touch
 
 📧 Email: jeyabalank4@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/jeyabalan-k-287abb232
-🙋 Pronouns: He/Him  
+🔗 LinkedIn: https://linkedin.com/in/jeyabalan-k-287abb232   
 
 > Always eager to discuss embedded systems, IoT protocols, and secure OTA workflows — drop me a message and let’s chat!
